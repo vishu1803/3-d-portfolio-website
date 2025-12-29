@@ -64,11 +64,7 @@ To test the project, follow these steps:
 4. Test the website's responsive design by resizing the browser window.
 5. Test the website's accessibility features, such as keyboard navigation and screen reader support.
 
-📸 Screenshots
-================
-[![Screenshot 1](https://via.placeholder.com/300x200)]
-[![Screenshot 2](https://via.placeholder.com/300x200)]
-[![Screenshot 3](https://via.placeholder.com/300x200)]
+
 
 📦 API Reference
 ================
