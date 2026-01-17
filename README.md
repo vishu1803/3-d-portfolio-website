@@ -74,6 +74,4 @@ The website does not have a public API, as it is a static website. However, the 
 ================
 The 3D Portfolio project was created by [Your Name](https://github.com/username).
 
-📝 License
-================
-The 3D Portfolio project is licensed under the MIT License. See the [LICENSE](https://github.com/username/3d-portfolio/blob/main/LICENSE) file for details.
+
