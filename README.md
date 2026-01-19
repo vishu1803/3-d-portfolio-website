@@ -72,6 +72,6 @@ The website does not have a public API, as it is a static website. However, the 
 
 👤 Author
 ================
-The 3D Portfolio project was created by [Your Name](https://github.com/username).
+The 3D Portfolio project was created by [Your Name](https://github.com/vishu1803).
 
 
